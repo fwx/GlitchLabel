@@ -25,7 +25,7 @@ $ pod try GlitchLabel
 
 ## Requirements
 * iOS 8.0+
-* Swift 3
+* Swift 4.1
 * Xcode 8
 
 ## Installation
